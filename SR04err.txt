@@ -1,0 +1,5 @@
+When the arduino IDE complains that sr04.h is missing,
+acquire the library from https://github.com/mrRobot62/Arduino-ultrasonic-SR04-library .
+Download the "Arduino-ultrasonic-SR04-library-master.zip" file via Clone/Download button.
+Open up the Arduino IDE and go to "Sketch -> Include Library -> Add .ZIP Library..."
+and go to your downloaded file and choose " Open".
